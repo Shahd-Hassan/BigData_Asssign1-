@@ -1,0 +1,4 @@
+Number of fraudulent transactions: 473
+Number of non-fraudulent transactions: 283253
+Total transactions: 283726
+Percentage of fraudulent transactions: 0.17%
